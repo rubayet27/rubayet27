@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I'm Rubayet<br><br>Flutter Developer focused on building smooth, scalable, and user-friendly apps.<br><br>⚙️ Crafting clean UI & real-time experiences<br>📱 Flutter • GetX • BLoC<br>🌐 Exploring backend (Django)<br>🚀 Always learning, always improving<br><br>Turning ideas into pixel-perfect apps
+# 💫 👋 Hey, I'm Rubayet
+Flutter Developer focused on building smooth, scalable, and user-friendly apps.<br><br>⚙️ Crafting clean UI & real-time experiences<br>📱 Flutter • GetX • BLoC<br>🌐 Exploring backend (Django)<br>🚀 Always learning, always improving<br><br>Turning ideas into pixel-perfect apps
 
 
 ## 🌐 Socials:
